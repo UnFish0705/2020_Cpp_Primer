@@ -44,6 +44,6 @@ int main()
 ```
 ## Excercise 6.36 ~ 6.38
 ```=c++
-// Re-check, P.228~
+// Re-check, P.228~~
 ```
 ## Excercise 6.54
